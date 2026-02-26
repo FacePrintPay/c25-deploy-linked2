@@ -12,6 +12,6 @@ chmod +x deploy_linked2.sh
 ```
 
 ## Source
-/data/data/com.termux/files/home/platform/deploy_linked2.sh
+/data/data/com.termux/files/home/sovereign-gtp/src/AiKre8tive-Stargate/platform/deploy_linked2.sh
 
 Built by Constellation 25 — FacePrintPay / Cygel White
